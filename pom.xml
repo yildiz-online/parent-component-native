@@ -32,7 +32,7 @@
   </parent>
 
   <artifactId>parent-component-native</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <name>Yildiz Parent Component Native</name>
   <description>Project to hold the parent pom for all component native child projects.</description>
@@ -68,7 +68,6 @@
   <inceptionYear>2017</inceptionYear>
 
   <properties>
-    <maven.javadoc.skip>true</maven.javadoc.skip>
     <env>none</env>
     <nativeEnv>none</nativeEnv>
   </properties>
