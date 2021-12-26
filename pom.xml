@@ -28,7 +28,7 @@
   <parent>
     <groupId>be.yildiz-games</groupId>
     <artifactId>parent</artifactId>
-    <version>4.0.2</version>
+    <version>5.0.3</version>
   </parent>
 
   <artifactId>parent-component-native</artifactId>
@@ -50,7 +50,7 @@
     <developer>
       <name>Grégory Van den Borre</name>
       <email>vandenborre.gregory@hotmail.fr</email>
-      <url>https://bitbucket.org/yildiz/</url>
+      <url>https://github.com/yildiz-online</url>
     </developer>
   </developers>
 
